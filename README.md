@@ -1,32 +1,5 @@
-# Biblioteca Online - API REST
-![](https://i.imgur.com/xG74tOh.png)
+# Banco experimental
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/KarlaSilvaEng/biblioteca-online?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/KarlaSilvaEng/biblioteca-online">
-  
-  <a href="https://github.com/KarlaSilvaEng/biblioteca-online/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KarlaSilvaEng/biblioteca-online">
-  </a>
-  
-  <!-- <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"> -->
-  
-   <a href="https://cubos.academy/">
-    <img alt="Feito por Karla Silva" src="https://img.shields.io/badge/feito-por%20Karla%20Silva-D818A5">
-   </a>
-   
-   <a href="https://github.com/cubos-academy/academy-template-readme-projects/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/cubos-academy/academy-template-readme-projects?style=social">
-  </a>
-   
-<h4 align="center"> 
-	🚧 Biblioteca Online 🚧
-</h4>
-
-<p align="center">
-	<img alt="Status Em Desenvolvimento" src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green">
-</p>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •

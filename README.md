@@ -44,6 +44,7 @@ $ npm run dev
 
 # O servidor inciará na porta:3000 - acesse http://localhost:3000
 ---
+```
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:

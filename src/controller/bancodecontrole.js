@@ -220,7 +220,7 @@ const fazerDeposito = (requisicao, resposta) => {
       }
 
       if(!contaDestino){
-        return mensagem.status(400).json({
+        return resposta.status(400).json({
           mensagem : "conta de Destino não existe"
         })
       }
@@ -250,7 +250,8 @@ const fazerDeposito = (requisicao, resposta) => {
 
         dados.transferencias.push({
           data: new Date(),
-          "numero_conta": numero_conta,
+          "numero_conta_origem": numero_conta_origem,
+          "numero_conta_destino": numero_conta_destino,
           "valor": valor,
         });
 
